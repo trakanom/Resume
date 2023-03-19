@@ -34,15 +34,16 @@ To leverage my technical prowess, problem-solving skills, and domain-specific kn
 
 
 ## Professional Experience
-| Job Title                          | Company                                      | Location          | Start Date | End Date    | Duration       |
-|------------------------------------|----------------------------------------------|-----------------------|------------|-------------|----------------|
-| Software Engineer                  | 4d2 Solutions (Freelance)                    | Remote            | 2/2020     | Present     | 3 years+       |
-| Managing Partner<br />Operations and Finance | Simple Securities LLC                  | Menlo Park, CA    | 7/2020     | 3/2023     | 2 years 8 months|
-| Managing Partner<br />Research and Development | Startbotix                            | Fresno, CA        | 11/2020    | 3/2023      | 2 year 4 months |
-| Practice Manager<br />Technology and Maintenance | First Sierra Dental                | Fresno, CA | 6/2013 | 4/2020     | 6 years 10 months|
-| Automation Engineer<br />Optimization Analyst | Thank Mr Skeltal           | Remote            | 3/2013     | 11/2017      | 4 years 8 months|
-| Semi-Pro Competitive Gamer<br />Guild Leadership | Shoukin<br />Into Harms Way<br />Stasis | Everquest II (MMORPG)            | 3/2005     | 11/2017      | 12 years 8 months|
-| Swarmathon Competitor<br />3rd place team | NASA <br /> CSU Channel Islands | Kennedy Space Center, FL<br/>Camarillo, CA| 1/2017     | 5/2017     | 4 months       |
-| IT Solutions Engineer              | 4d2 Solutions (Freelance)                    | San Luis Obispo, CA<br />Fresno, CA| 12/2009    | 3/2013       | 3 years 3 months|
-| System Administrator<br />Facility Maintenance Engineer | First Sierra Dental                          | Fresno, CA<br />Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
+| Job Title                          | Company                                      | Location          | Start Date | End Date    |
+|------------------------------------|----------------------------------------------|-----------------------|------------|-------------|
+| Software Engineer                  | 4d2 Solutions (Freelance)                    | Remote            | 2/2020     | Present     |
+| Managing Partner<br />Operations and Finance | Simple Securities LLC                  | Menlo Park, CA    | 7/2020     | 3/2023     |
+| Managing Partner<br />Research and Development | Startbotix                            | Fresno, CA        | 11/2020    | 3/2023      |
+| Practice Manager<br />Technology and Maintenance | First Sierra Dental                | Fresno, CA | 6/2013 | 4/2020     |
+| Automation Engineer<br />Optimization Analyst | Thank Mr Skeltal           | Remote            | 3/2013     | 11/2017      |
+| Semi-Pro Competitive Gamer<br />Guild Leadership | Shoukin<br />Into Harms Way<br />Stasis | Everquest II (MMORPG)            | 3/2005     | 11/2017      |
+| Swarmathon Competitor<br />3rd place team | NASA <br /> CSU Channel Islands | Kennedy Space Center, FL<br/>Camarillo, CA| 1/2017     | 5/2017     |
+| IT Solutions Engineer              | 4d2 Solutions (Freelance)                    | San Luis Obispo, CA<br />Fresno, CA| 12/2009    | 3/2013       |
+| System Administrator<br />Facility Maintenance Engineer | First Sierra Dental                          | Fresno, CA<br />Coarsegold, CA | 12/2005 | 6/2013      |
+
 
