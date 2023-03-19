@@ -1,7 +1,7 @@
 # Mika Wisener-Brandt
 Software Engineer | Data Engineer | Engineering Manager
 
-[Email](mailto:Mika@Wisener.dev) | [Phone](tel:8053218581) | [GitHub](https://github.com/Trakanom) | [LinkedIn](https://www.linkedin.com/in/MikaWB) | [Blog](https://mikasoft.xyz)
+[📧 Mika@Wisener.dev](mailto:Mika@Wisener.dev) | [📞 (805) 321-8581](tel:+18053218581) | [👩🏽‍💻 GitHub](https://github.com/Trakanom) | [🤝 LinkedIn](https://www.linkedin.com/in/MikaWB) | [📝 Blog](https://mikasoft.xyz)
 
 ## Summary
 Talented software engineer with 17 years of experience implementing technology and business solutions in various industries such as finance, healthcare, technology, and gaming. Adept in Python, C#, and SQL, focusing on strategic planning and efficient control systems. Strong problem-solving skills, abstract thinking, diverse experience, and a broad range of interpersonal and technical abilities enable effective solution delivery and team leadership. Seeking a challenging role in software engineering, data engineering, or engineering management to continue personal and professional growth.
@@ -43,10 +43,14 @@ Cuesta College | San Luis Obispo, CA\
 2009–2011
 
 ## Professional Experience
-**Software Engineer, Automation Engineer & Optimization Analyst, IT Solutions Engineer**\
-4d2 Solutions (Freelance) | Remote\
-2/2020–Present, 3/2013–11/2017, 12/2009–3/2013 (11 years)
-
-- Exceeded client expectations by delivering high-quality technology and business solutions to 50+ clients in the finance, healthcare, technology, and gaming industries, achieving exceptional customer satisfaction and on-time delivery.
-- Developed and optimized code and configurations through functional programming and intensive data analysis to streamline freelance organization operations, expand service offerings, and contribute to engineering teams and open-source frameworks.
-- Optimized development efficiency and explored innovative solutions by brainstorming effective planning and communication materials.
+| Job Title                          | Company                                      | Location          | Start Date | End Date    | Duration       |
+|------------------------------------|----------------------------------------------|-------------------|------------|-------------|----------------|
+| Software Engineer                  | 4d2 Solutions (Freelance)                    | Remote            | 2/2020     | Present     | 3 years+       |
+| Managing Partner<br />Operations and Finance | Simple Securities LLC                  | Menlo Park, CA    | 7/2020     | 3/2023     | 2 years 8 months|
+| Managing Partner<br />Research and Development | Startbotix                            | Fresno, CA        | 11/2020    | 3/2023      | 2 year 4 months |
+| Automation Engineer<br />Optimization Analyst | Thank Mr Skeltal           | Remote            | 3/2013     | 11/2017      | 4 years 8 months|
+| IT Solutions Engineer              | 4d2 Solutions (Freelance)                    | San Luis Obispo, CA| 12/2009    | 3/2013       | 3 years 3 months|
+| Practice Manager<br />Technology and Maintenance | First Sierra Dental                | Fresno, CA | 6/2013 | 4/2020     | 6 years 10 months|
+| Facility Engineer                  | First Sierra Dental                          | Fresno and Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
+| System Administrator               | First Sierra Dental                          | Fresno and Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
+| Semi-Pro Competitive Gamer<br />Guild Leadership | Everquest II (MMORPG)                       | Remote            | 3/2005     | 11/2017      | 12 years 8 months|
