@@ -1,7 +1,7 @@
 # Mika Wisener-Brandt
 Software Engineer | Data Engineer | Engineering Manager
 
-[📧 Mika@Wisener.dev](mailto:Mika@Wisener.dev) | [📞 (805) 321-8581](tel:+18053218581) | [👩🏽‍💻 GitHub](https://github.com/Trakanom) | [🤝 LinkedIn](https://www.linkedin.com/in/MikaWB) | [📝 Blog](https://mikasoft.xyz)
+[📧 Mika@Wisener.dev](mailto:Mika@Wisener.dev) | [📅 Schedule Meeting](https://calendly.com/mikasoft/schedule-interview) | [👩🏽‍💻 GitHub](https://github.com/Trakanom) | [🤝 LinkedIn](https://www.linkedin.com/in/MikaWB) | [📝 Blog](https://mikasoft.xyz)
 
 ## Summary
 Talented software engineer with 17 years of experience implementing technology and business solutions in various industries such as finance, healthcare, technology, and gaming. Adept in Python, C#, and SQL, focusing on strategic planning and efficient control systems. Strong problem-solving skills, abstract thinking, diverse experience, and a broad range of interpersonal and technical abilities enable effective solution delivery and team leadership. Seeking a challenging role in software engineering, data engineering, or engineering management to continue personal and professional growth.
