@@ -26,21 +26,13 @@ Number & Set Theory, Cryptography, Discrete Math, Probability, Statistics, Linea
 Leadership, Conflict Resolution, Active Learning, Executive Coaching, Communication, Management Consulting
 
 ## Education
-**Bachelor of Science in Math (COVID Hiatus; 91% complete)**\
-CSU Channel Islands | Camarillo, CA\
-2016–Present
+| Degree | Institution | Location | Dates Attended |
+|--------|-------------|----------|----------------|
+| Bachelor of Science in Math<br />(COVID Hiatus; 91\% complete) | CSU Channel Islands | Camarillo, CA | 2016–Present |
+| Associate of Science in Economics | Clovis Community College | Fresno, CA | 2021–2022 |
+| Associate of Science in Physics | Clovis Community College | Fresno, CA | 2011–2014 |
+| Associate of Science in Math | Cuesta College | San Luis Obispo, CA | 2009–2011 |
 
-**Associate of Science in Economics**\
-Clovis Community College | Fresno, CA\
-2021–2022
-
-**Associate of Science in Physics**\
-Clovis Community College | Fresno, CA\
-2011–2014
-
-**Associate of Science in Math**\
-Cuesta College | San Luis Obispo, CA\
-2009–2011
 
 ## Professional Experience
 | Job Title                          | Company                                      | Location          | Start Date | End Date    | Duration       |
@@ -48,9 +40,9 @@ Cuesta College | San Luis Obispo, CA\
 | Software Engineer                  | 4d2 Solutions (Freelance)                    | Remote            | 2/2020     | Present     | 3 years+       |
 | Managing Partner<br />Operations and Finance | Simple Securities LLC                  | Menlo Park, CA    | 7/2020     | 3/2023     | 2 years 8 months|
 | Managing Partner<br />Research and Development | Startbotix                            | Fresno, CA        | 11/2020    | 3/2023      | 2 year 4 months |
-| Automation Engineer<br />Optimization Analyst | Thank Mr Skeltal           | Remote            | 3/2013     | 11/2017      | 4 years 8 months|
-| IT Solutions Engineer              | 4d2 Solutions (Freelance)                    | San Luis Obispo, CA| 12/2009    | 3/2013       | 3 years 3 months|
 | Practice Manager<br />Technology and Maintenance | First Sierra Dental                | Fresno, CA | 6/2013 | 4/2020     | 6 years 10 months|
-| Facility Engineer                  | First Sierra Dental                          | Fresno and Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
-| System Administrator               | First Sierra Dental                          | Fresno and Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
+| Automation Engineer<br />Optimization Analyst | Thank Mr Skeltal           | Remote            | 3/2013     | 11/2017      | 4 years 8 months|
 | Semi-Pro Competitive Gamer<br />Guild Leadership | Everquest II (MMORPG)                       | Remote            | 3/2005     | 11/2017      | 12 years 8 months|
+| IT Solutions Engineer              | 4d2 Solutions (Freelance)                    | San Luis Obispo, CA<br />Fresno, CA| 12/2009    | 3/2013       | 3 years 3 months|
+| System Administrator<br />Facility Maintenance Engineer | First Sierra Dental                          | Fresno, CA<br />Coarsegold, CA | 12/2005 | 6/2013      | 7 years 6 months|
+
