@@ -6,6 +6,7 @@ Software Engineer | Data Engineer | Engineering Manager
 ## Summary
 A highly-skilled software engineer and entrepreneur with extensive experience in programming, data analysis, and engineering management. Expertise spans across medical, gaming, financial, and biotech industries. Recognized for a strong track record in leading diverse teams, devising innovative solutions, and delivering impressive results in high-pressure environments. Proficient in a wide range of programming languages, frameworks, and tools.
 
+
 ## Objective
 To leverage my technical prowess, problem-solving skills, and domain-specific knowledge in a challenging and dynamic software engineering role. Seeking opportunities to contribute to cutting-edge projects, learn from industry experts, and further develop my expertise in software development, data analysis, and team leadership.
 
