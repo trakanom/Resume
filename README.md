@@ -4,7 +4,11 @@ Software Engineer | Data Engineer | Engineering Manager
 [📧 Mika@Wisener.dev](mailto:Mika@Wisener.dev) | [📅 Schedule Meeting](https://calendly.com/mikasoft/schedule-interview) | [👩🏽‍💻 GitHub](https://github.com/Trakanom) | [🤝 LinkedIn](https://www.linkedin.com/in/MikaWB) | [📝 Blog](https://mikasoft.xyz)
 
 ## Summary
-Talented software engineer with 17 years of experience implementing technology and business solutions in various industries such as finance, healthcare, technology, and gaming. Adept in Python, C#, and SQL, focusing on strategic planning and efficient control systems. Strong problem-solving skills, abstract thinking, diverse experience, and a broad range of interpersonal and technical abilities enable effective solution delivery and team leadership. Seeking a challenging role in software engineering, data engineering, or engineering management to continue personal and professional growth.
+A highly-skilled software engineer and entrepreneur with extensive experience in programming, data analysis, and engineering management. Expertise spans across medical, gaming, financial, and biotech industries. Recognized for a strong track record in leading diverse teams, devising innovative solutions, and delivering impressive results in high-pressure environments. Proficient in a wide range of programming languages, frameworks, and tools.
+
+## Objective
+To leverage my technical prowess, problem-solving skills, and domain-specific knowledge in a challenging and dynamic software engineering role. Seeking opportunities to contribute to cutting-edge projects, learn from industry experts, and further develop my expertise in software development, data analysis, and team leadership.
+
 
 ## Core Proficiencies
 | Skill Category                   | Skills & Experience                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
