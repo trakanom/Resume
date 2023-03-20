@@ -35,7 +35,7 @@ To leverage my technical prowess, problem-solving skills, and domain-specific kn
 
 ## Professional Experience
 | Job Title                          | Company                                      | Location          | Start Date | End Date    |
-|------------------------------------|----------------------------------------------|-----------------------|------------|-------------|
+|--------------------------------------------|----------------------------------------------|----------------------------|------------|-------------|
 | Software Engineer                  | 4d2 Solutions (Freelance)                    | Remote            | 2/2020     | Present     |
 | Managing Partner<br />Operations and Finance | Simple Securities LLC                  | Menlo Park, CA    | 7/2020     | 3/2023     |
 | Managing Partner<br />Research and Development | Startbotix                            | Fresno, CA        | 11/2020    | 3/2023      |
