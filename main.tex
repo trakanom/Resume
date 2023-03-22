@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage[top=.5in, bottom=.5in, left=.5in, right=.5in]{geometry}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{sectsty}
+\usepackage{multirow}
+\usepackage{setspace}
+
+% Theming
+\definecolor{fontcolor}{RGB}{0, 0, 0}
+\definecolor{sectionhighlight}{RGB}{102, 102, 102}
+\definecolor{alternatehighlight}{RGB}{204, 204, 204}
+\definecolor{backgroundcolor}{RGB}{255, 255, 255}
+
+\pagecolor{backgroundcolor}
+\color{fontcolor}
+\titleformat{\section}{\large\bfseries\color{sectionhighlight}}{}{0em}{}
+\subsectionfont{\color{sectionhighlight}}
+\pretitle{\begin{center}\LARGE\color{sectionhighlight}}
+\posttitle{\end{center}}
+
+\setstretch{.5} % Adjust the value according to your preference.
+
+% Resume Content
+\title{Mika Wisener-Brandt}
+\author{Software Engineer\vspace{-2.5ex}}
+\date{\vspace{-5ex}}
+\begin{document}
+\maketitle
+
+% Contact
+\section*{Contact}
+\input{content/contact.tex}
+
+
+% Summary
+
+\input{content/summary.tex}
+
+% Core Proficiencies
+
+\input{content/core_proficiencies.tex}
+
+% Education
+
+\input{content/education.tex}
+
+% Professional Experience
+
+\input{content/professional_experience.tex}
+
+% Organized Achievement
+\section*{Organized Achievement}
+\input{content/organized_achievement.tex}
+
+% Volunteer Experience
+
+\input{content/volunteer_experience.tex}
+
+% Personal Projects
+
+\input{content/personal_projects.tex}
+
+% Certifications
+
+\input{content/certifications.tex}
+
+% Other Info
+
+\input{content/other_info.tex}
+
+\end{document}
